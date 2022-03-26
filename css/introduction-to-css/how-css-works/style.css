@@ -1,0 +1,44 @@
+
+h1 {
+  color: red;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+/* Target multiple selectors */
+
+p, li {
+  color: green;
+}
+
+/* Removing default feature from list types*/
+
+li {
+  list-style-type: none;
+}
+
+.special {
+  color:orange;
+  font-weight: bold;
+}
+
+li em {
+  color: rebeccapurple;
+}
+
+h1 + p {
+  font-size: 200%;
+}
+
+p + span {
+  color: red;
+}
+
+a:link {
+  color: pink;
+  font-weight: 1000;
+}
+
+a:visited {
+  color: green;
+}
