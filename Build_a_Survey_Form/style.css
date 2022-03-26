@@ -1,0 +1,41 @@
+.surveyPage{
+    border: 1px solid;
+    padding: 70px;
+    width: 35%;
+    margin: auto;
+    text-align: left;
+    background-color: hsl(200, 50%, 40%);
+}
+
+div p {
+    font-size: 20px ;
+    color: white;
+}
+
+#title {
+    text-align: center;
+    padding-top: 5%;
+}
+
+#description {
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+#bg-image {
+    background-image: url("https://lh3.googleusercontent.com/D4l7CVyTtv7XdNcqMh3etTqYbEQTgJUtHaXc_Tdx3X-MIXHWqIy3z6Nuacb-iLYx_6Qn6y-FW-8YhsPUhQQ9phx8vYv2xGo6N6ZIPEQtOK_zhL8zynVC-xwTpsjRWgzOQoBLUPY01Q=w2400");
+    /* Add the blur effect */
+ 
+    
+  /* Full height */
+  height: 100%; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.form-check {
+    color: white;
+}

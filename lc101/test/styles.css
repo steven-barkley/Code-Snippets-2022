@@ -1,0 +1,36 @@
+#articletitle{
+    font-style: italic;
+}
+
+p.newsarticle {
+    color: #6BACBF;
+    line-height: 2;
+}
+
+
+h1 {
+    color: #FF0862;
+    margin-left: 70px;
+    font-family: "Impact", Charcoal, sans-serif;
+    
+} 
+
+h2 {
+    color: #08B1FF;
+    margin-left: 70px;
+    font-family: "Impact", Charcoal, sans-serif;
+}
+
+p { 
+    color: #F56991;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino; serif;
+    line-height: 1.5; 
+    margin: 50px;
+    padding: 25px
+    
+    
+}
+
+footer{
+    color: #332717;
+}
