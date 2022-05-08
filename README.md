@@ -4,11 +4,7 @@
 
 ### Outline
 
-Plan, design and execute on 5 websites reflecting the skils on my resume.
-
-Project 1 - www.menqu.com
-
-Project 2 - www.srbarkley.com
+Plan, design and execute on websites reflecting the skils on my resume.
 
 Project 3 - Site that provides data for Liberty City/Model City
 
@@ -16,24 +12,12 @@ Project 4 - Favorite Miami Restaurant
 
 Project 5 - Favorite Miami Hotel 
 
-Project 6 - MyEcon / (Website redirect) 
-
-Project 7 - KidsKloset 
-
 What program do you want to co-write together?
 
 > HTML CSS AND Javascript to start.
-> Goal make a website for Children's Clothes
+> Goal make a website that utilizes everything in diverse snippets of code.
 
-> Requirements
-* Sections - About, Shop, Home
-* Footer - Copyright 2018 Maruschka Germain and Steven Barkley
-* Background Photo 
-* Photo Gallery: 
-        Children
-        Clothes 
-        Shoes 
-        Accessories
+> Deadline 2023
 
 # WAI-ARIA marking guide
 
